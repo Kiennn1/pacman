@@ -1,0 +1,11 @@
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.csproj.AssemblyReference.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\pacman\pacman\obj\Debug\pacman.pdb
